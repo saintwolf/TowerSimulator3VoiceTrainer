@@ -1,0 +1,32 @@
+Cleared to land
+Cleared for takeoff
+Cleared for immediate takeoff
+Cleared for takeoff upon reaching altitude
+Cancel takeoff
+Expect runway
+Climb to 2000
+climb via runway heading
+on reaching contact departure
+turn left heading
+turn right heading
+line up and wait
+line up behind next landing aircraft
+wind is calm
+On reaching turn left to heading
+On reaching turn right to heading
+After departure fly heading
+After departure turn left degrees
+After departure turn right degrees
+Turn on course
+Go around
+Enter final runway
+Change to runway
+Exit at taxiway
+Vacate runway left onto taxiway
+Vacate runway right onto taxiway
+For crossing traffic
+Take next available exit on left
+Take next available exit on right
+Report heading
+Report position
+Report airspeed

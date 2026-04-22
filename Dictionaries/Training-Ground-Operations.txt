@@ -1,0 +1,23 @@
+Pushback Approved Facing
+Approved Facing
+Standby
+Continue taxi
+Follow company
+Taxi to terminal
+Taxi to ramp
+Taxi to apron
+Cross runway
+Hold short of taxiway
+Hold short of runway
+Hold position
+Your arrival gate is occupied taxi and hold at the intersection of taxiway
+Taxi and hold at the intersection of taxiway
+Pushback approved expect runway
+Approved expect runway
+Contact ground
+Contact tower
+Contact departure
+Last plane called
+Read you by five
+Report shutting down
+Radar contact

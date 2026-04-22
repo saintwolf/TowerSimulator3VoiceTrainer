@@ -1,0 +1,25 @@
+Enter left downwind
+Enter left base
+Enter left upwind
+Enter left crosswind
+Enter right downwind
+Enter right base
+Enter right upwind
+Enter right crosswind
+Straight in approach
+Report turning base
+Extend left
+Extend right
+By miles
+Roger continue
+Continue approach
+Cleared as filed maintain VFR advise when ready to taxi
+Continue number
+Make traffic
+Closed traffic approved
+Make 360 for spacing
+Make turn
+Cleared for low approach
+Cleared for touch and go
+Cleared for stop and go
+Cleared for the option
